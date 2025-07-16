@@ -1,0 +1,58 @@
+
+    body {
+      font-family:  "Poppins", sans-serif;;
+      margin: 0;
+      background-color: #f0f4f8;
+      color: #476f95;
+      font-size: 15px;
+
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: #ffffff;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+      display:inline-block;
+    }
+
+    
+    h1, h2, h3{
+      color: #003366;
+    }
+    
+    .container span{
+        color: #003366;
+        font-weight:500 ;
+    }
+    
+    .section {
+      margin-bottom: 25px;
+    }
+    .section h2 {
+background-color:#d6e6ff;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+    }
+    .contact {
+      font-size: 0.9em;
+      line-height: 1.6;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .skills span {
+      display: inline-block;
+      background: #cce5ff;
+      color: #003366;
+      padding: 6px 12px;
+      margin: 5px;
+      border-radius: 20px;
+      font-size: 0.9em;
+    }
+    .project-title {
+      font-weight: bold;
+      color: #006699;
+    }
+ 
